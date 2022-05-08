@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "The Growlers - -zSzluF9itcw.mp4",
+            "path": "music_m2/videos/The Growlers - -zSzluF9itcw.mp4",
+            "size": 20.16623104
+        },
+        {
             "name": "Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
             "path": "music_m2/videos/Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
             "size": 14.786057216000001
@@ -52,5 +57,5 @@
             "size": 16.07867392
         }
     ],
-    "total_size": 141.858138112
+    "total_size": 162.02436915200002
 }
