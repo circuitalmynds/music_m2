@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
+            "path": "music_m2/videos/Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
+            "size": 14.786057216000001
+        }
+    ],
+    "total_size": 14.786057216000001
 }
