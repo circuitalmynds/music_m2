@@ -1,91 +1,308 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
+            "id": "zSzluF9itcw",
             "name": "The Growlers - -zSzluF9itcw.mp4",
             "path": "m2/videos/The Growlers - -zSzluF9itcw.mp4",
-            "size": 20.16623104,
+            "size": 19.693585,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/The Growlers - -zSzluF9itcw.mp4?raw=true"
         },
         {
+            "id": "5bl9cYEbFgU",
             "name": "Abzug (2009 Remaster)-5bl9cYEbFgU.mp4",
             "path": "m2/videos/Abzug (2009 Remaster)-5bl9cYEbFgU.mp4",
-            "size": 5.40460032,
+            "size": 5.27793,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Abzug (2009 Remaster)-5bl9cYEbFgU.mp4?raw=true"
         },
         {
+            "id": "nxsBQCjsT9g",
             "name": "Fanny Mendelssohn  - Overture in C Major-nxsBQCjsT9g.mp4",
             "path": "m2/videos/Fanny Mendelssohn  - Overture in C Major-nxsBQCjsT9g.mp4",
-            "size": 12.047463424,
+            "size": 11.765101,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Fanny Mendelssohn  - Overture in C Major-nxsBQCjsT9g.mp4?raw=true"
         },
         {
+            "id": "DdVlLH-OxlM",
             "name": "Te Me Olvidaste-Marco Antonio Solis-2010-DdVlLH-OxlM.mp4",
             "path": "m2/videos/Te Me Olvidaste-Marco Antonio Solis-2010-DdVlLH-OxlM.mp4",
-            "size": 12.546462720000001,
+            "size": 12.252405,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Te Me Olvidaste-Marco Antonio Solis-2010-DdVlLH-OxlM.mp4?raw=true"
         },
         {
+            "id": "V1sdR8WmEMU",
             "name": "Laid Back - Tricky Kind Of Thing-V1sdR8WmEMU.mp4",
             "path": "m2/videos/Laid Back - Tricky Kind Of Thing-V1sdR8WmEMU.mp4",
-            "size": 11.758787584,
+            "size": 11.483191,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Laid Back - Tricky Kind Of Thing-V1sdR8WmEMU.mp4?raw=true"
         },
         {
+            "id": "39c2qKuWGU8",
             "name": "スタッカート　ポルカ-39c2qKuWGU8.mp4",
             "path": "m2/videos/スタッカート　ポルカ-39c2qKuWGU8.mp4",
-            "size": 5.784144896,
+            "size": 5.648579,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/スタッカート　ポルカ-39c2qKuWGU8.mp4?raw=true"
         },
         {
+            "id": "XMkUGOpvVVY",
             "name": "I'll Chase The Blues Away-XMkUGOpvVVY.mp4",
             "path": "m2/videos/I'll Chase The Blues Away-XMkUGOpvVVY.mp4",
-            "size": 2.8094638080000003,
+            "size": 2.743617,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/I'll Chase The Blues Away-XMkUGOpvVVY.mp4?raw=true"
         },
         {
+            "id": "Y6KZplf-Jwg",
             "name": "Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
             "path": "m2/videos/Skatalites - Nice Time-Y6KZplf-Jwg.mp4",
-            "size": 14.786057216000001,
+            "size": 14.439509,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Skatalites - Nice Time-Y6KZplf-Jwg.mp4?raw=true"
         },
         {
+            "id": "pDZGG3pSp8Y",
             "name": "Elton John & Pete Bellotte - Thunder in the Night (1979)-pDZGG3pSp8Y.mp4",
             "path": "m2/videos/Elton John & Pete Bellotte - Thunder in the Night (1979)-pDZGG3pSp8Y.mp4",
-            "size": 12.839712768,
+            "size": 12.538782,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Elton John & Pete Bellotte - Thunder in the Night (1979)-pDZGG3pSp8Y.mp4?raw=true"
         },
         {
+            "id": "4EuuKGQ869s",
             "name": "Radu Marian, Male Soprano. Carissimi - Sicut Stellamatutina, Complete-4EuuKGQ869s.mp4",
             "path": "m2/videos/Radu Marian, Male Soprano. Carissimi - Sicut Stellamatutina, Complete-4EuuKGQ869s.mp4",
-            "size": 42.569070592,
+            "size": 41.571358,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Radu Marian, Male Soprano. Carissimi - Sicut Stellamatutina, Complete-4EuuKGQ869s.mp4?raw=true"
         },
         {
+            "id": "f_A_wgu5YD4",
             "name": "Charly García - Clics Modernos (1983) (Álbum Completo)-f_A_wgu5YD4.mp4",
             "path": "m2/videos/Charly García - Clics Modernos (1983) (Álbum Completo)-f_A_wgu5YD4.mp4",
-            "size": 50.547462144,
+            "size": 49.362756,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Charly García - Clics Modernos (1983) (Álbum Completo)-f_A_wgu5YD4.mp4?raw=true"
         },
         {
+            "id": "mqy98hcMV9w",
             "name": "Electric Youth -  Right Back To You-mqy98hcMV9w.mp4",
             "path": "m2/videos/Electric Youth -  Right Back To You-mqy98hcMV9w.mp4",
-            "size": 14.407876608,
+            "size": 14.070191999999999,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Electric Youth -  Right Back To You-mqy98hcMV9w.mp4?raw=true"
         },
         {
+            "id": "iZAqaykiS70",
             "name": "LImpératrice ♗ VANILLE FRAISE-iZAqaykiS70.mp4",
             "path": "m2/videos/LImpératrice ♗ VANILLE FRAISE-iZAqaykiS70.mp4",
-            "size": 16.07867392,
+            "size": 15.70183,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/LImpératrice ♗ VANILLE FRAISE-iZAqaykiS70.mp4?raw=true"
         },
         {
+            "id": "J9hBP54gHZ8",
             "name": "Tchaikovsky - Eugene Onegin, Op. 24, TH. 5 _ Act II - Valse-J9hBP54gHZ8.mp4",
             "path": "m2/videos/Tchaikovsky - Eugene Onegin, Op. 24, TH. 5 _ Act II - Valse-J9hBP54gHZ8.mp4",
-            "size": 7.445933056,
+            "size": 7.271419,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Tchaikovsky - Eugene Onegin, Op. 24, TH. 5 _ Act II - Valse-J9hBP54gHZ8.mp4?raw=true"
+        },
+        {
+            "id": "wl-eVipq5cE",
+            "name": "Kraftwerk - Album (The Man Machine) Full-wl-eVipq5cE.mp4",
+            "path": "m2/videos/Kraftwerk - Album (The Man Machine) Full-wl-eVipq5cE.mp4",
+            "size": 58.850719,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Kraftwerk - Album (The Man Machine) Full-wl-eVipq5cE.mp4?raw=true"
+        },
+        {
+            "id": "WQy7XsODHX0",
+            "name": "Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live)-WQy7XsODHX0.mp4",
+            "path": "m2/videos/Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live)-WQy7XsODHX0.mp4",
+            "size": 10.953097999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live)-WQy7XsODHX0.mp4?raw=true"
+        },
+        {
+            "id": "IfVmFkjsUtc",
+            "name": "Chic ~ I Want Your Love 1978 Disco Purrfection Version-IfVmFkjsUtc.mp4",
+            "path": "m2/videos/Chic ~ I Want Your Love 1978 Disco Purrfection Version-IfVmFkjsUtc.mp4",
+            "size": 55.258244,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Chic ~ I Want Your Love 1978 Disco Purrfection Version-IfVmFkjsUtc.mp4?raw=true"
+        },
+        {
+            "id": "ZNH6FcxQh_U",
+            "name": "Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4",
+            "path": "m2/videos/Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4",
+            "size": 8.338363,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Extremoduro.-Ama,ama y ensancha el alma.-ZNH6FcxQh_U.mp4?raw=true"
+        },
+        {
+            "id": "5YvuVmbXXfc",
+            "name": "Claudio Abbado  - Stravinsky, The Firebird  - 클라우디오 아바도  - 스트라빈스키, 불새-5YvuVmbXXfc.mp4",
+            "path": "m2/videos/Claudio Abbado  - Stravinsky, The Firebird  - 클라우디오 아바도  - 스트라빈스키, 불새-5YvuVmbXXfc.mp4",
+            "size": 89.030666,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Claudio Abbado  - Stravinsky, The Firebird  - 클라우디오 아바도  - 스트라빈스키, 불새-5YvuVmbXXfc.mp4?raw=true"
+        },
+        {
+            "id": "JJk7WKTg7jw",
+            "name": "Bolero Mix 1 (Megamix Version) 1986-JJk7WKTg7jw.mp4",
+            "path": "m2/videos/Bolero Mix 1 (Megamix Version) 1986-JJk7WKTg7jw.mp4",
+            "size": 13.646904999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Bolero Mix 1 (Megamix Version) 1986-JJk7WKTg7jw.mp4?raw=true"
+        },
+        {
+            "id": "j11s7UUkzhk",
+            "name": "STRAVINSKY FIREBIRD - UNIC TRANSCRIPTION FOR PIANO-j11s7UUkzhk.mp4",
+            "path": "m2/videos/STRAVINSKY FIREBIRD - UNIC TRANSCRIPTION FOR PIANO-j11s7UUkzhk.mp4",
+            "size": 65.506833,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/STRAVINSKY FIREBIRD - UNIC TRANSCRIPTION FOR PIANO-j11s7UUkzhk.mp4?raw=true"
+        },
+        {
+            "id": "Ys8KoquHUHs",
+            "name": "Alton Ellis - 'Sitting In The Park' [Official Audio]-Ys8KoquHUHs.mp4",
+            "path": "m2/videos/Alton Ellis - 'Sitting In The Park' [Official Audio]-Ys8KoquHUHs.mp4",
+            "size": 4.967048999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Alton Ellis - 'Sitting In The Park' [Official Audio]-Ys8KoquHUHs.mp4?raw=true"
+        },
+        {
+            "id": "-Fs3UcO_JhU",
+            "name": "Silver Pozzoli - Around My Dream (Extended Version)--Fs3UcO_JhU.mp4",
+            "path": "m2/videos/Silver Pozzoli - Around My Dream (Extended Version)--Fs3UcO_JhU.mp4",
+            "size": 10.717823,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Silver Pozzoli - Around My Dream (Extended Version)--Fs3UcO_JhU.mp4?raw=true"
+        },
+        {
+            "id": "cFbh-HKd8is",
+            "name": "Johnny Cash - i got stripes-cFbh-HKd8is.mp4",
+            "path": "m2/videos/Johnny Cash - i got stripes-cFbh-HKd8is.mp4",
+            "size": 2.909426,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Johnny Cash - i got stripes-cFbh-HKd8is.mp4?raw=true"
+        },
+        {
+            "id": "1XDnKdtUqCw",
+            "name": "Alfred Cortot plays Children's Corner of Debussy (full color) 1936-1XDnKdtUqCw.mp4",
+            "path": "m2/videos/Alfred Cortot plays Children's Corner of Debussy (full color) 1936-1XDnKdtUqCw.mp4",
+            "size": 32.011843,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Alfred Cortot plays Children's Corner of Debussy (full color) 1936-1XDnKdtUqCw.mp4?raw=true"
+        },
+        {
+            "id": "eObdh83zV24",
+            "name": "Fern Kinney  -  Groove Me-eObdh83zV24.mp4",
+            "path": "m2/videos/Fern Kinney  -  Groove Me-eObdh83zV24.mp4",
+            "size": 13.680458999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Fern Kinney  -  Groove Me-eObdh83zV24.mp4?raw=true"
+        },
+        {
+            "id": "7gI3obA9b-U",
+            "name": "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4",
+            "path": "m2/videos/Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4",
+            "size": 16.167852,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4?raw=true"
+        },
+        {
+            "id": "8KeA7PSPPu4",
+            "name": "Suicide Machines - The Vans Song-8KeA7PSPPu4.mp4",
+            "path": "m2/videos/Suicide Machines - The Vans Song-8KeA7PSPPu4.mp4",
+            "size": 4.765549,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Suicide Machines - The Vans Song-8KeA7PSPPu4.mp4?raw=true"
+        },
+        {
+            "id": "Ttc_M0yR3SY",
+            "name": "El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4",
+            "path": "m2/videos/El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4",
+            "size": 9.672519999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/El Mal Necesario Cartel de Santa vol. 5-Ttc_M0yR3SY.mp4?raw=true"
+        },
+        {
+            "id": "14ZtNIFPqZA",
+            "name": "Masayoshi Takanaka - T Wave (1980)-14ZtNIFPqZA.mp4",
+            "path": "m2/videos/Masayoshi Takanaka - T Wave (1980)-14ZtNIFPqZA.mp4",
+            "size": 62.736993999999996,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Masayoshi Takanaka - T Wave (1980)-14ZtNIFPqZA.mp4?raw=true"
+        },
+        {
+            "id": "GLA72sr-1qY",
+            "name": "[Vinyl][LP][City Pop] Mariya Takeuchi - Variety [SIDE B]-GLA72sr-1qY.mp4",
+            "path": "m2/videos/[Vinyl][LP][City Pop] Mariya Takeuchi - Variety [SIDE B]-GLA72sr-1qY.mp4",
+            "size": 56.71055,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/[Vinyl][LP][City Pop] Mariya Takeuchi - Variety [SIDE B]-GLA72sr-1qY.mp4?raw=true"
+        },
+        {
+            "id": "YzxFgwuvvwk",
+            "name": "Halina Mickiewiczówna - C'est l'histoire amoureuse (Auber) in Polish-YzxFgwuvvwk.mp4",
+            "path": "m2/videos/Halina Mickiewiczówna - C'est l'histoire amoureuse (Auber) in Polish-YzxFgwuvvwk.mp4",
+            "size": 10.053958999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Halina Mickiewiczówna - C'est l'histoire amoureuse (Auber) in Polish-YzxFgwuvvwk.mp4?raw=true"
+        },
+        {
+            "id": "IR8vad1GgwE",
+            "name": "Preludes, Book 1, CD 125, L. 117 - No. 12, Minstrels (Arr. Maisky for Cello and Piano)-IR8vad1GgwE.mp4",
+            "path": "m2/videos/Preludes, Book 1, CD 125, L. 117 - No. 12, Minstrels (Arr. Maisky for Cello and Piano)-IR8vad1GgwE.mp4",
+            "size": 2.5025679999999997,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Preludes, Book 1, CD 125, L. 117 - No. 12, Minstrels (Arr. Maisky for Cello and Piano)-IR8vad1GgwE.mp4?raw=true"
+        },
+        {
+            "id": "myBNR9H3vWI",
+            "name": "Johann Fischer - Oboe Concerto No.1 in C Major (1768)-myBNR9H3vWI.mp4",
+            "path": "m2/videos/Johann Fischer - Oboe Concerto No.1 in C Major (1768)-myBNR9H3vWI.mp4",
+            "size": 33.805026,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Johann Fischer - Oboe Concerto No.1 in C Major (1768)-myBNR9H3vWI.mp4?raw=true"
+        },
+        {
+            "id": "gSgIQp32nD8",
+            "name": "Alton Ellis - 'Still Trying' [Official Audio]-gSgIQp32nD8.mp4",
+            "path": "m2/videos/Alton Ellis - 'Still Trying' [Official Audio]-gSgIQp32nD8.mp4",
+            "size": 4.560873,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Alton Ellis - 'Still Trying' [Official Audio]-gSgIQp32nD8.mp4?raw=true"
+        },
+        {
+            "id": "LNR2QTo3fOw",
+            "name": "Chopin - Piano Concerto No. 1 in E Minor, Op. 11 - III. Rondo. Vivace-LNR2QTo3fOw.mp4",
+            "path": "m2/videos/Chopin - Piano Concerto No. 1 in E Minor, Op. 11 - III. Rondo. Vivace-LNR2QTo3fOw.mp4",
+            "size": 16.794755,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Chopin - Piano Concerto No. 1 in E Minor, Op. 11 - III. Rondo. Vivace-LNR2QTo3fOw.mp4?raw=true"
+        },
+        {
+            "id": "A23T6JfRA_Q",
+            "name": "YAZOO - The Classic Techno Mixes-A23T6JfRA_Q.mp4",
+            "path": "m2/videos/YAZOO - The Classic Techno Mixes-A23T6JfRA_Q.mp4",
+            "size": 91.058888,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/YAZOO - The Classic Techno Mixes-A23T6JfRA_Q.mp4?raw=true"
+        },
+        {
+            "id": "el7W_Exmez8",
+            "name": "Ray Noble - If You'll Say Yes, Cherie-el7W_Exmez8.mp4",
+            "path": "m2/videos/Ray Noble - If You'll Say Yes, Cherie-el7W_Exmez8.mp4",
+            "size": 2.840407,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Ray Noble - If You'll Say Yes, Cherie-el7W_Exmez8.mp4?raw=true"
+        },
+        {
+            "id": "idolOfNQuWs",
+            "name": "Jan Křtitel Krumpholtz Harp Concerto in B flat major Op.7 No.5, Jana Boušková-idolOfNQuWs.mp4",
+            "path": "m2/videos/Jan Křtitel Krumpholtz Harp Concerto in B flat major Op.7 No.5, Jana Boušková-idolOfNQuWs.mp4",
+            "size": 30.518293,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Jan Křtitel Krumpholtz Harp Concerto in B flat major Op.7 No.5, Jana Boušková-idolOfNQuWs.mp4?raw=true"
+        },
+        {
+            "id": "Yh1VhfwdziI",
+            "name": "Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4",
+            "path": "m2/videos/Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4",
+            "size": 3.225682,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4?raw=true"
+        },
+        {
+            "id": "OSIMnaj32Og",
+            "name": "Los Cadetes de Linares - Anorando Tus Besos-OSIMnaj32Og.mp4",
+            "path": "m2/videos/Los Cadetes de Linares - Anorando Tus Besos-OSIMnaj32Og.mp4",
+            "size": 4.357025,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Los Cadetes de Linares - Anorando Tus Besos-OSIMnaj32Og.mp4?raw=true"
+        },
+        {
+            "id": "__C9aVdTYdU",
+            "name": "Igor Stravinsky - Orpheus (1948)-__C9aVdTYdU.mp4",
+            "path": "m2/videos/Igor Stravinsky - Orpheus (1948)-__C9aVdTYdU.mp4",
+            "size": 72.512965,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Igor Stravinsky - Orpheus (1948)-__C9aVdTYdU.mp4?raw=true"
+        },
+        {
+            "id": "J5bF30A5rjk",
+            "name": "Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Allegretto-J5bF30A5rjk.mp4",
+            "path": "m2/videos/Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Allegretto-J5bF30A5rjk.mp4",
+            "size": 2.9992889999999996,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Allegretto-J5bF30A5rjk.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 229.19194009600002
+    "total_size": 1014.974877
 }
