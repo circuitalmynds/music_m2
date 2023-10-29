@@ -72,11 +72,32 @@
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Alfred Cortot plays Children's Corner of Debussy (full color) 1936-1XDnKdtUqCw.mp4?raw=true"
         },
         {
+            "id": "PQkhm-4fRLQ",
+            "name": "Art Blakey and The Jazz Messengers ‎– Gypsy Folk Tales (1977) [PQkhm-4fRLQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Art Blakey and The Jazz Messengers ‎– Gypsy Folk Tales (1977) [PQkhm-4fRLQ].mp4",
+            "size": 87.019656,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Art Blakey and The Jazz Messengers ‎– Gypsy Folk Tales (1977) [PQkhm-4fRLQ].mp4?raw=true"
+        },
+        {
+            "id": "j-wiOj395RQ",
+            "name": "Sperl Galopp, Op. 42 [j-wiOj395RQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Sperl Galopp, Op. 42 [j-wiOj395RQ].mp4",
+            "size": 8.046880999999999,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Sperl Galopp, Op. 42 [j-wiOj395RQ].mp4?raw=true"
+        },
+        {
             "id": "Yh1VhfwdziI",
             "name": "Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m2/videos/Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4",
             "size": 3.225682,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Jan Johansson - Gånglek från Älvdalen (Official Audio)-Yh1VhfwdziI.mp4?raw=true"
+        },
+        {
+            "id": "wMSKBT_jxb4",
+            "name": "Lacksley Castell - Princess Lady [wMSKBT_jxb4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Lacksley Castell - Princess Lady [wMSKBT_jxb4].mp4",
+            "size": 52.169422,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Lacksley Castell - Princess Lady [wMSKBT_jxb4].mp4?raw=true"
         },
         {
             "id": "Ys8KoquHUHs",
@@ -163,6 +184,13 @@
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Sonata No. 1 in B flat major (Sonate en si bémol majeur no 1) , Op. 13 - Allegretto-J5bF30A5rjk.mp4?raw=true"
         },
         {
+            "id": "3-CmFbO7wkA",
+            "name": "Romeo and Juliet (1978 Disco Full 12-inch Version) - Alec R. Constandinos [3-CmFbO7wkA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Romeo and Juliet (1978 Disco Full 12-inch Version) - Alec R. Constandinos [3-CmFbO7wkA].mp4",
+            "size": 8.386792,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Romeo and Juliet (1978 Disco Full 12-inch Version) - Alec R. Constandinos [3-CmFbO7wkA].mp4?raw=true"
+        },
+        {
             "id": "OSIMnaj32Og",
             "name": "Los Cadetes de Linares - Anorando Tus Besos-OSIMnaj32Og.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m2/videos/Los Cadetes de Linares - Anorando Tus Besos-OSIMnaj32Og.mp4",
@@ -212,6 +240,13 @@
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/[Vinyl][LP][City Pop] Mariya Takeuchi - Variety [SIDE B]-GLA72sr-1qY.mp4?raw=true"
         },
         {
+            "id": "kiAxE2xd174",
+            "name": "Ampersan - Baquiné (Video Oficial) [kiAxE2xd174].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Ampersan - Baquiné (Video Oficial) [kiAxE2xd174].mp4",
+            "size": 50.314237,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Ampersan - Baquiné (Video Oficial) [kiAxE2xd174].mp4?raw=true"
+        },
+        {
             "id": "cFbh-HKd8is",
             "name": "Johnny Cash - i got stripes-cFbh-HKd8is.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m2/videos/Johnny Cash - i got stripes-cFbh-HKd8is.mp4",
@@ -252,7 +287,14 @@
             "path": "/home/alanmatzumiya/Videos/container/m2/videos/Bolero Mix 1 (Megamix Version) 1986-JJk7WKTg7jw.mp4",
             "size": 13.646904999999999,
             "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Bolero Mix 1 (Megamix Version) 1986-JJk7WKTg7jw.mp4?raw=true"
+        },
+        {
+            "id": "rKLCxQFBbpo",
+            "name": "Botellero [rKLCxQFBbpo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m2/videos/Botellero [rKLCxQFBbpo].mp4",
+            "size": 2.820369,
+            "url": "https://github.com/circuitalmynds/music_m2/blob/main/videos/Botellero [rKLCxQFBbpo].mp4?raw=true"
         }
     ],
-    "total_size": 739.3415140000001
+    "total_size": 948.0988710000001
 }
